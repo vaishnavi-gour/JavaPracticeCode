@@ -23,6 +23,7 @@ public class fact
 			fact=fact*i;
 			}
 		System.out.println(fact);
+//line added
 		
 	}
 
